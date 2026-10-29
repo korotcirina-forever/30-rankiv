@@ -1,0 +1,7 @@
+# На GitHub іде тільки сама сторінка: index.html і картинки.
+# Тексти, чернетки й SVG-джерела лишаються локально.
+*
+!.gitignore
+!index.html
+!assets/
+!assets/*.jpg
